@@ -1,0 +1,6 @@
+# IBM-Project-50768-1660923758
+Hazardous Area Monitoring for Industrial Plant powered by IoT
+TEAM LEADER : AARTHI.M
+TEAM MEMBER 1: RUBINI.K 
+TEAM MEMBER 2: INDHUMATHI.E
+TEAM MEMBER 3: MANIMEKALAI.P
